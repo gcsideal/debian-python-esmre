@@ -1,0 +1,15 @@
+Source: python-esmre
+Maintainer: Orvant Maintainers <dev@orvant.com>
+Section: python
+Priority: optional
+Standards-Version: 3.9.4
+Build-Depends: debhelper (>= 9), python-all-dev, python-setuptools
+
+Package: python-esmre
+Architecture: any
+Depends: ${python:Depends}, ${misc:Depends}, ${shlibs:Depends}
+Description: Regular expression acceleration in Python using Aho-Corasick
+ esmre is a Python module that can be used to speed up the execution of a large
+ collection of regular expressions. It works by building a index of compulsory
+ substrings from a collection of regular expressions, which it uses to quickly
+ exclude those expressions which trivially do not match each input.
