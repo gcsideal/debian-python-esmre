@@ -5,13 +5,13 @@ Source: https://esmre.googlecode.com/
 
 Files: *
 Copyright: 2007 Tideway Systems Limited.
-License: LGPL
+License: LGPL-2.1
 
 Files: debian/*
 Copyright: 2013 Orvant Maintainers <dev@orvant.com>
 License: LGPL-3+
 
-License: LGPL
+License: LGPL-2.1
  This library is free software; you can redistribute it and/or modify it under
  the terms of the GNU Lesser General Public License as published by the Free
  Software Foundation; either version 2 of the License, or (at your option) any
@@ -26,7 +26,7 @@ License: LGPL
  with this library; if not, write to the Free Software Foundation, Inc.,
  51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA.
  Comment: On Debian systems, the LGPL version 2 license can be found at
- /usr/share/common-licenses/LGPL-2.
+ `/usr/share/common-licenses/LGPL-2-1'.
 
 License: LGPL-3+
  This package is free software; you can redistribute it and/or modify it under
