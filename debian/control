@@ -1,5 +1,6 @@
 Source: python-esmre
 Maintainer: Orvant Maintainers <dev@orvant.com>
+Uploaders: Laszlo Boszormenyi (GCS) <gcs@debian.org>
 Section: python
 Priority: optional
 Standards-Version: 3.9.4
